@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IV6jUmZfUoxQGWjCPK+HDzWACRIHWA/w46hCw6r5jZFQj3CViN0sw5g9RbbNaI7y0aXhTsZWbjZdsIrR+pHgdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\AgendaTelefonica\\Agenda\\Agenda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
