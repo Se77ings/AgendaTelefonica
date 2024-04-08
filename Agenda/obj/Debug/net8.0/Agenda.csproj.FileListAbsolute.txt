@@ -1,0 +1,15 @@
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\bin\Debug\net8.0\Agenda.exe
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\bin\Debug\net8.0\Agenda.deps.json
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\bin\Debug\net8.0\Agenda.runtimeconfig.json
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\bin\Debug\net8.0\Agenda.dll
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\bin\Debug\net8.0\Agenda.pdb
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\Agenda.AssemblyInfo.cs
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\Agenda.sourcelink.json
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\Agenda.dll
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\refint\Agenda.dll
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\Agenda.pdb
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\Agenda.genruntimeconfig.cache
+C:\Users\willian\source\repos\AgendaTelefonica\Agenda\obj\Debug\net8.0\ref\Agenda.dll
